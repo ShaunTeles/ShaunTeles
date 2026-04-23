@@ -19,8 +19,7 @@
 
   ### About Me
 
-  - 🛍️  **Product Designer @ [Rohlik Group](https://www.rohlik.cz)** — the only Czech-founded unicorn, delivering groceries fast across
-  Europe (currently 5 markets)
+  - 🛍️  **Product Designer @ [Rohlik Group](https://www.rohlik.cz)** — the only Czech-founded unicorn (valued over $1 Billion), delivering groceries fast across Europe (currently 5 markets 🇨🇿🇦🇹🇩🇪🇭🇺🇷🇴)
   - 🏆 **Cannes Young Lions & Loeries** award winner — rooted in advertising art direction at Wunderman Thompson (WPP) and McCann (IPG)
    in Johannesburg and Prague
   - 🌍 EU citizen (Portuguese 🇵🇹 / South African 🇿🇦), based in Prague, Czech Republic 🇨🇿
