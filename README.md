@@ -1,9 +1,9 @@
 # Hi, I'm Shaun 👋                                                                                                                   
                                                                                 
-  An Ai-powered Product Designer/Engineer with roots in advertising art-direction.                                                                
+  An Ai-powered Product Designer with roots in advertising art-direction.                                                                
 
   From ad campaigns in Johannesburg to e-commerce at scale in Prague — my work sits at the intersection of UX craft, AI tools, and real
-   product impact. I care about reducing friction, moving metrics, and closing the gap between design and engineering.
+   product impact. I care about reducing friction, moving metrics, and closing the gap between design and engineering (design engineering is where I'm heading).
 
   Most of what I do is hands-on (and not limited to): user research, journey mapping, design systems, prototypes, and enough code to get things across the
   line. Let's just get it done.
